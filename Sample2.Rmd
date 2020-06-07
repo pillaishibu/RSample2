@@ -3,6 +3,7 @@ title: "Test Document"
 author: "Shibu Pillai"
 date: "6/7/2020"
 output:
+  pdf_document: default
   html_document:
     df_print: paged
 ---
